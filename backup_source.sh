@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Script backup
-# Author: Tan Viet - VinaHost
+# Author: Tan Viet
 
 DES_DIR="/backup/data/source"
 SOURCE_DIR="/home/"

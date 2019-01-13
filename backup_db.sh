@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script backup all database MySQL
-# Author: Tan Viet - VinaHost
+# Author: Tan Viet
 
 DES_DIR="/backup/data/database"
 TODAY="$(date +"%Y-%m-%d")"
